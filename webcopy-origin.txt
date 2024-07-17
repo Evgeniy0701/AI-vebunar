@@ -1,0 +1,52 @@
+Uri: https://customer.smartsender.eu/js/client/gd.min.js?v2.0.0
+File Name: C:\Downloaded Web Sites\genius.space\js\client\gd.min.js
+Content Type: application/javascript
+
+Uri: https://genius.space/ai/css/libs.min.css
+File Name: C:\Downloaded Web Sites\genius.space\ai\css\libs.min.css
+Content Type: text/css
+
+Uri: https://genius.space/ai/css/main.css
+File Name: C:\Downloaded Web Sites\genius.space\ai\css\main.css
+Content Type: text/css
+
+Uri: https://genius.space/ai/js/jquery.cookie.js
+File Name: C:\Downloaded Web Sites\genius.space\ai\js\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: https://genius.space/ai/js/libs.min.js
+File Name: C:\Downloaded Web Sites\genius.space\ai\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://genius.space/ai/js/main.js
+File Name: C:\Downloaded Web Sites\genius.space\ai\js\main.js
+Content Type: application/javascript
+
+Uri: https://genius.space/ai/js/modernizr-custom.js
+File Name: C:\Downloaded Web Sites\genius.space\ai\js\modernizr-custom.js
+Content Type: application/javascript
+
+Uri: https://genius.space/ai/js/slick.min.js
+File Name: C:\Downloaded Web Sites\genius.space\ai\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://genius.space/ai/wp/?utm_source=google&utm_medium=leadgen.studio&utm_campaign=search_ai_ua&utm_term=искусственный интеллект&gad_source=1&gclid=CjwKCAjw1920BhA3EiwAJT3lSSOcUfEu4wbMWvdUFY_OVZHwQa8DChnRRFlKQiwCHChPUK90CYzoNhoC2kgQAvD_BwE
+File Name: C:\Downloaded Web Sites\genius.space\ai\wp\index.htm
+Content Type: text/html
+
+Uri: https://genius.space/ai/wp/img/logo.svg
+File Name: C:\Downloaded Web Sites\genius.space\ai\wp\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://genius.space/img/logo-footer.svg
+File Name: C:\Downloaded Web Sites\genius.space\img\logo-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://genius.space/sitemap_index.xml
+File Name: C:\Downloaded Web Sites\genius.space\sitemap_index.xml
+Content Type: text/xml
+
+Uri: https://genius.space/zoho/zohoNewDealAsyncShort.js
+File Name: C:\Downloaded Web Sites\genius.space\zoho\zohoNewDealAsyncShort.js
+Content Type: application/javascript
+
