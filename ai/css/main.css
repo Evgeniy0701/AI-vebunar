@@ -241,7 +241,7 @@ table {
 
 body {
   font: 400 var(--fz-default)/140% var(--default-font-family), Helvetica, Arial, sans-serif;
-  background: var(--bg);
+  background: #535BEC;;
   min-width: 360px;
   color: var(--text-color);
   position: relative;
@@ -425,7 +425,7 @@ a {
 }
 
 .btn {
-  background: var(--accent);
+  background: #B7F46A;
   -moz-appearance: none;
   appearance: none;
   -webkit-appearance: none;
@@ -433,7 +433,7 @@ a {
   padding: 15px 25px;
   border-radius: 8px;
   font-size: 16px;
-  color: #ffffff;
+  color: #535BEC;
   font-weight: 700;
   text-align: center;
   min-width: 272px;
@@ -443,7 +443,7 @@ a {
 
 .btn_transparent {
   background: transparent;
-  border: 1px solid #ffffff;
+  border: 1px solid #B7F46A;
   padding: 14px 25px;
   transition: color var(--tr), border-color var(--tr);
 }
@@ -652,7 +652,7 @@ a {
 }
 
 .header:before {
-  background: var(--bg);
+  background: #535BEC;;
   content: "";
   display: block;
   position: absolute;
@@ -866,7 +866,7 @@ a {
 
 .hero__uptitle span {
   display: block;
-  color: var(--accent);
+  color: #FFFFFF;
   font-family: 'Gilroy';
   font-size: 241px;
   font-weight: 700;
@@ -1131,12 +1131,7 @@ a {
   background: url('../img/hero__photo_decor.webp') 50%/contain no-repeat;
 }
 
-.why__photo_item {
-  width: 463px;
-  height: 502px;
-  background: url('../img/why__main.webp') 50%/contain no-repeat;
-}
-
+ 
 .advantages {
   padding-top: var(--padding-custom);;
 }
@@ -1149,7 +1144,7 @@ a {
   position: relative;
   display: flex;
   border-radius: 20px;
-  background: #171717;
+  background: #3fbeff;
   padding: 54px 60px 70px 60px;
   column-gap: 160px;
   overflow: hidden;
@@ -1213,7 +1208,7 @@ a {
   height: 22px;
   left: 0;
   top: 0;
-  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 22 22' fill='none'%3E%3Cpath d='M11 0L12.9445 9.05546L22 11L12.9445 12.9445L11 22L9.05546 12.9445L0 11L9.05546 9.05546L11 0Z' fill='%238B57C2'/%3E%3C/svg%3E") 50%/contain no-repeat;
+  
 }
 
 .advantages__list li b{
@@ -1309,7 +1304,7 @@ a {
   padding: 30px;
   display: flex;
   column-gap: 30px;
-  background-color: #171717;
+  background-color: #3fbeff;
   border-radius: 20px;
   margin-bottom: 15px;
   overflow: hidden;
@@ -3302,7 +3297,7 @@ a {
 }
 
 .faq {
-  background: #171717;
+  background:#535BEC;
   padding: var(--sp) 0;
 }
 
@@ -3345,7 +3340,7 @@ background: rgba(255, 255, 255, 0.10);
   font-weight: 800;
   font-size: 29px;
   line-height: 36px;
-  color: var(--accent);
+  color: #59e08b;
   transition: 0.3s ease;
 }
 
@@ -4084,7 +4079,7 @@ background: rgba(255, 255, 255, 0.10);
   }
 
   .why__description {
-    margin-top: 10px;
+    margin-top: 1px;
     font-size: 15px;
   }
 
